@@ -3070,7 +3070,7 @@ static void show_credits()
 
     if ( use_colors ) {
         printf("     BTC donation: "CL_CYN"3Gcbpn4QU4iGibZox378VdEJvjx7Z7J7Tr"CL_N" (cryptozeny)\n");
-        printf("     Magpiecoin donation: "CL_CYN"MqqXP37SXsGxDk4AajwpyWf9itLierSV9P"MGPC" (magpiecoin)\n\n");
+        printf("     Magpiecoin donation: "CL_CYN"MqqXP37SXsGxDk4AajwpyWf9itLierSV9P"CL_N" (magpiecoin)\n");
     } else {
         printf("     BTC donation address: 3Gcbpn4QU4iGibZox378VdEJvjx7Z7J7Tr (cryptozeny)\n");
         printf("     Magpiecoin donation: MqqXP37SXsGxDk4AajwpyWf9itLierSV9P (magpiecoin)\n\n");
